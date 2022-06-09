@@ -17,14 +17,14 @@ body {
   margin-bottom: 10%;
 }
 
-.displayInputs {
+.valueInputs {
   border-radius: 10px;
   background-color: #858693;
   width: 40%;
   height: 90px;
 }
 
-.showResult {
+.displayResult {
   font-size: 40px;
   display: flex;
   padding-right: 10px;
@@ -33,7 +33,7 @@ body {
   color: #d1cdcd;
 }
 
-.calcDiv {
+.calcBody {
   display: grid;
   grid-template-columns: auto auto auto auto;
   width: 40%;
