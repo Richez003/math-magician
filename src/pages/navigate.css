@@ -9,11 +9,11 @@
   nav{
     display: flex;
     text-decoration: none;
-    padding-top: 8px;
     justify-content: flex-end;
     gap: 5%
   }
 
   nav a {
+    padding-top: 8px;
     text-decoration: none;
   }

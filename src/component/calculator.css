@@ -28,7 +28,7 @@ body {
 .displayResult {
   font-size: 37px;
   display: flex;
-  padding-right: 80px;
+  padding-right: 10px;
   align-items: flex-end;
   justify-content: flex-end;
   color: #ece6e6;
@@ -75,4 +75,14 @@ body {
 .btnclick {
   font-family: 'Orbitron', sans-serif;
   background-color: #f5913e;
+}
+
+.mainContainer h2 {
+ position: absolute; 
+ /* margin-left: 10rem; */
+ text-align: start;
+ width: 100%;
+ padding-left: 5rem;
+ padding-bottom: 30rem;
+ margin:0;
 }

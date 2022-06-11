@@ -15,10 +15,8 @@
   p {
     font-size: 20px;
     padding: 3%;
-    width: 70%;
-    margin-left: 12rem;
+    width: 100%;
     display: flex;
-    text-align: center;
     justify-content: center;
     color: black;
   }
