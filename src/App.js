@@ -1,7 +1,7 @@
 import React from 'react';
 import Calculator from './component/calculator';
 
-class DisplayCalc extends React.Component {
+class DisplayPage extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {};
@@ -14,4 +14,4 @@ class DisplayCalc extends React.Component {
   }
 }
 
-export default DisplayCalc;
+export default DisplayPage;
