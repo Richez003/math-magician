@@ -13,7 +13,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 5%;
 }
 
 .valueInputs {
@@ -78,11 +77,8 @@ body {
 }
 
 .mainContainer h2 {
- position: absolute; 
- /* margin-left: 10rem; */
  text-align: start;
  width: 100%;
  padding-left: 5rem;
- padding-bottom: 30rem;
  margin:0;
 }

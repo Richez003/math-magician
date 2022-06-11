@@ -10,7 +10,7 @@ class Navigate extends React.PureComponent {
         <nav>
           <Link to="/">HomePage|</Link>
           <Link to="/calculator">Calculator</Link>
-          <Link to="/Quotes">|Quotes</Link>
+          <Link to="/quote">|Quotes</Link>
         </nav>
       </header>
 
