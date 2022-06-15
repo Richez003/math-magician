@@ -15,7 +15,7 @@ const Quotes = () => {
         <div>
           <p>{cite}</p>
           <br />
-          {author}
+          <p>{author}</p>
         </div>
       </main>
     </>
