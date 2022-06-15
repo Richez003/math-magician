@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Calculator from './component/calculator';
-import HomePage from './pages/home';
-import Navigate from './pages/navigate';
-import Quotes from './pages/quote';
+import HomePage from './page/home';
+import Navigate from './page/navigate';
+import Quotes from './page/quote';
 
 class DisplayPage extends React.PureComponent {
   constructor(props) {
@@ -26,3 +26,4 @@ class DisplayPage extends React.PureComponent {
     );
   }
 }
+export default DisplayPage;
