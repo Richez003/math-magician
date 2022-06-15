@@ -1,0 +1,19 @@
+.head {
+  display: flex;
+  padding: 4px;
+  padding-inline: 10%;
+  justify-content: space-between;
+  background: rgb(169, 169, 164);
+}
+
+nav {
+  display: flex;
+  text-decoration: none;
+  justify-content: flex-end;
+  gap: 5%;
+}
+
+nav a {
+  padding-top: 8px;
+  text-decoration: none;
+}
