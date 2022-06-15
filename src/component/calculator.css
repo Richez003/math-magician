@@ -77,8 +77,8 @@ body {
 }
 
 .mainContainer h2 {
- text-align: start;
- width: 100%;
- padding-left: 5rem;
- margin:0;
+  text-align: start;
+  width: 100%;
+  padding-left: 5rem;
+  margin: 0;
 }
