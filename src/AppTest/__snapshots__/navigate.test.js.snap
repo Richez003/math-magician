@@ -1,5 +1,35 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`NavBar component should perform correctly on initial run 1`] = `
+<header
+  className="head"
+>
+  <h1>
+    Math Magician
+  </h1>
+  <nav>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      HomePage|
+    </a>
+    <a
+      href="/calculator"
+      onClick={[Function]}
+    >
+      Calculator
+    </a>
+    <a
+      href="/quote"
+      onClick={[Function]}
+    >
+      |Quotes
+    </a>
+  </nav>
+</header>
+`;
+
 exports[`renders correctly 1`] = `
 <section
   className="home-wrapper"
