@@ -25,12 +25,14 @@ npx eslint .
 - Web Browser
 - [Visual Studio code](https://code.visualstudio.com/)
 
-## Authors
 
-👤 ## Author
+## Live Preview
+
+[Netlify](https://deploy-preview-7--candid-tapioca-0a1dcc.netlify.app/)
+
+ ## Authors
 
 👤 **Richard Friday**
-
 - GitHub: [@Richez003](https://github.com/Richez003)
 - Twitter: [@richardfriday14](https://twitter.com/richardfriday14)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/richard-friday-54980718a)
